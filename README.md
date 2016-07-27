@@ -10,7 +10,7 @@ It's a platform built to analyze the mood of users based on their conversation w
 4. Hbase
 
 ##How does it work?
-An application is built with JMS to facilitate chatting service. These messages are sent to kafka, streamed to Spark, which analyzes the messages and categorise into various moods. The analyzed information is then ingested into Hbase. Now users can query Hbase to know the mood of other users. 
+An application is built with JMS to facilitate chatting service. These messages are sent to kafka, streamed to Spark, which analyzes the messages and categorize into various moods. The analyzed information is then ingested into Hbase. Now users can query Hbase to know the mood of other users. 
 
 ##Note
 The applciation is under development.
