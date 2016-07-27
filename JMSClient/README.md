@@ -1,4 +1,4 @@
-# JMS-Chat-app
+# JMS-Chat
 It's a command-line chat application built using ActiveMQ JMS provider. 
 
 ##ActiveMQ
